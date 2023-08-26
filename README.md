@@ -52,44 +52,43 @@ Detailed usage instructions and assembly guidelines can be found in the original
 
 ## Proteus Simulation
 
-<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Proteus Simulation.png"></p>
+<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Simple-Solar-Battery-Charger/blob/master/images/Proteus Simulation.png"></p>
 <br>
-<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Simulation.png"></p>
+<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Simple-Solar-Battery-Charger/blob/master/images/Simulation.png"></p>
 <br>
-<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/simulation_panel.png"></p>
+<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Simple-Solar-Battery-Charger/blob/master/images/simulation_panel.png"></p>
 <br>
 
 ## Enclosure Design
 
-
-<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Side View.png" width="600" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Front View.png" width="600" height="400"> 
+<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Simple-Solar-Battery-Charger/blob/master/images/1.png" width="600" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Simple-Solar-Battery-Charger/blob/master/images/2.png" width="600" height="400"> 
 <br>
-<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Back View.png" width="600" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Up View.png" width="600" height="400"> 
+<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Simple-Solar-Battery-Charger/blob/master/images/3.png" width="600" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Simple-Solar-Battery-Charger/blob/master/images/4.png" width="600" height="400"> 
 <br>
 
 ## Schemetic of the PCB
-<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Schematic%20Design.png" ></p>
+<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Simple-Solar-Battery-Charger/blob/master/images/5.png" ></p>
 <br>
 
 ## PCB Layout
-<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB Layout.png" ></p>
+<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Simple-Solar-Battery-Charger/blob/master/images/PCB Layout.png" ></p>
 <br>
 
 ## PCB Design
 
 Top Layer                  |  Bottom Layer               
 :-------------------------:|:-------------------------:
-<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Top%20Layer.png" width="500" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Bottom%20Layer.png" width="500" height="400"> 
+<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Simple-Solar-Battery-Charger/blob/master/images/PCB%20Top%20Layer.png" width="500" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Simple-Solar-Battery-Charger/blob/master/images/PCB%20Bottom%20Layer.png" width="500" height="400"> 
 <br>
 
 ## PCB Design
 
-<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Design.png" ></p>
+<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Simple-Solar-Battery-Charger/blob/master/images/14.png" ></p>
 <br>
 
 ## Gerber Fabrication
 
-<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Gerber%20Fabrication.png" ></p>
+<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Simple-Solar-Battery-Charger/blob/master/images/15.png" ></p>
 <br>
 
 ## License
